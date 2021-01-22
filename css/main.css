@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: blue;
+}
+.restartBtn {
+    background-color: white;
+    position: absolute;
+    margin-left: 50px;
+    border-radius: 20%;
+    visibility: hidden;
+}
+.time {
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.tableLimits {
+    position: absolute;
+    width: 300px;
+    height: 430px;
+    margin-left: 220px;
+    /* background-color: red; */
+    
+}
